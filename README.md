@@ -1,0 +1,2 @@
+# Comment_Of_Attendance
+勤怠コメント用アプリケーション開発
